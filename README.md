@@ -1,4 +1,4 @@
-# Appogram Sample With PHP
+# Appogram Sample With ASP.net/C#
 
 this repository contain a very simple server that written in ASP.net/C# with WebAPI technology.
 
